@@ -21,7 +21,7 @@ Here’s a breakdown of the key files in this repository:
 
 * 📁 **Datasets:**
 
-    *  #ffffffcampaign.csv: Contains data on marketing campaigns and customer responses.
+    *  campaign.csv: Contains data on marketing campaigns and customer responses.
     *  shopping.csv: Captures customer shopping history, including purchase details, browsing data, and preferences.
 
 * 📊 **Analysis Notebooks:**
