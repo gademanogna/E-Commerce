@@ -37,9 +37,11 @@ Here’s a breakdown of the key files in this repository:
 **1. Campaign Analysis:**
   * Examined customer engagement with various marketing campaigns.
   * Identified the most effective campaign strategies based on customer response rates.
+    
 **2. Shopping Behavior Analysis:**
   * Analyzed customer shopping patterns to understand the most purchased products, spending patterns, and customer preferences.
   * Uncovered factors that influence customers' purchasing decisions.
+    
 **3. Key Insights & Recommendations:**
   * Provided actionable recommendations for improving marketing efficiency.
   * Suggested strategies for targeting specific customer segments to boost engagement.
