@@ -1,8 +1,9 @@
 # 📊 E-Commerce Marketing and Shopping EDA
 
-Welcome to the E-Commerce Marketing and Shopping Exploratory Data Analysis (EDA) project! This repository provides insights into customer behaviors and interactions with marketing campaigns in the e-commerce space. We leverage two datasets—campaign.csv and shopping.csv—to uncover trends and provide recommendations for optimizing marketing strategies.
+Welcome to the **E-Commerce Marketing and Shopping Exploratory Data Analysis (EDA)** project! This repository provides insights into customer behaviors and interactions with marketing campaigns in the e-commerce space. We leverage two datasets—campaign.csv and shopping.csv—to uncover trends and provide recommendations for optimizing marketing strategies.
 
 📂 Project Overview
+---
 This project aims to analyze customer responses to marketing campaigns and shopping behaviors. By examining these datasets, we aim to:
 
 Analyze marketing campaign performance and customer engagement levels.
